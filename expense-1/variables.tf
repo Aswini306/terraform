@@ -5,9 +5,9 @@ variable "instance_names" {
 }
 
 variable "domain_name" {
-  default = "daws81s.online"
+  default = "aswini.blog"
 }
 
 variable "zone_id" {
-  default = "Z09912121MS725XSKH1TG"
+  default = "Z0409476WUE29DSSPESQ"
 }
